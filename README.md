@@ -9,3 +9,4 @@ I built this site with React, React Bootstrap, Redux, and the GitHub REST API.
 ### `npm start`
 
 "# MyPortfolio" 
+"# my-portfolio" 
